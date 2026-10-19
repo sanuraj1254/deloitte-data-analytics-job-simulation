@@ -24,3 +24,7 @@ I am a B.Tech Artificial Intelligence and Data Science student developing my ski
 **Program:** Deloitte Data Analytics Job Simulation  
 **Platform:** Forage  
 **Type:** Virtual Job Simulation
+
+## Dashboard Preview
+
+![Deloitte Data Analytics Dashboard](dashboard.png)
